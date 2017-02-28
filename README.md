@@ -18,7 +18,7 @@
 
 
 ## GeoCode Model ##
-Refer: [RFC 7946](https://tools.ietf.org/html/rfc7946) 
+Reference: [RFC 7946](https://tools.ietf.org/html/rfc7946) 
 ```javascript
 {
   "type": "GeoCode", 
