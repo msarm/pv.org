@@ -33,7 +33,7 @@ Reference: [RFC 7946](https://tools.ietf.org/html/rfc7946)
 }
 ```
 
-## GeoCode Model ##
+## Report Model ##
 Reference: [JSON Model](http://www.jsoneditoronline.org/?id=5d211512bdec88d9dba2d431df07fe5a)
 ```javascript
 {
