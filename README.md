@@ -1,7 +1,7 @@
 # pv.org - Data Model Specification
 
 
-## Policy: ##
+## Policy:
 
 - No Advertisement
 - People awarenes message distribution on following cases:
