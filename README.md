@@ -1,6 +1,12 @@
 # pv.org - Data Model Specification
 
 
+## Policy: ##
+
+- No Advertisement
+- People awarenes message distribution on following cases:
+  - New Policy or Policy Change
+
 ## Attachment Model ##
 ```javascript
 {
